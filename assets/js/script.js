@@ -18,5 +18,11 @@ var pEl = $("<p>");
 pEl.append(currentDay)
 currentDayEl.append(pEl);
 
+// Displays timeblock on page
+// var hourEl = $("div");
+// hourEl.addClass("hour");
+// hourEl.text("09:00am"); // Change from hardcode
+
+
 
 
